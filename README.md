@@ -1,4 +1,4 @@
-# My blog
+# My blog for automating Security Operations
 Blog Listings for AutomateSecOps.com
 
 [IOC Decay Automated by Tines](https://ioc-decay.automatesecops.com/)
