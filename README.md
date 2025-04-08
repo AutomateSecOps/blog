@@ -1,4 +1,6 @@
 # My blog for automating Security Operations
+[Taught a hands-on Tines technical workshop at BCNet Connect 2025](https://bcnet-2025.automatesecops.com/)
+
 [Automate the Blocking of Domains in Cisco Umbrella with Tines](https://umbrella.automatesecops.com/)
 
 [IOC Decay Automated by Tines](https://ioc-decay.automatesecops.com/)
